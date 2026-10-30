@@ -12,7 +12,7 @@ All three are 1920×1080, 24 fps, mastered to −14 LUFS, with the Chinese lyric
 
 ## Watch
 
-The finished films are too large for a normal Git push, so they are attached to the [latest release](https://github.com/ChanMeng666/anti-marriage-universe-mv/releases/latest):
+The finished films are too large for a normal Git push, so they are attached to the [latest release](https://github.com/ChanMeng666/mv-anti-marriage-universe/releases/latest):
 
 - `ahua.mp4`
 - `afa.mp4`
